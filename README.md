@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working to **enhance my coding skills in Ruby on Rails!**
 - 🌱 I’m currently pursuing to learning **Rust, MongoDB and Node.**
+- 💻 My latest project [GrooveGrid](https://groovegrid.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
