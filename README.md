@@ -21,7 +21,7 @@ class Profile
 
     @availableForHire = true
     @education = "Le Wagon Lisbon - Advanced coding bootcamp"
-    @areasOfInterest = ["Ruby", "Python", "SQL"]
+    @areasOfInterest = ["Ruby", "JavaScript", "SQL"]
     @technologies: ["Ruby on Rails", "Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"]
 
   end
