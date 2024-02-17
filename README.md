@@ -2,7 +2,7 @@
 <h3 align="center">I'm a backend developer, passionate about new challenges</h3>
 
 - 🔭 I’m currently working to **enhance my coding skills in Ruby on Rails!**
-- 🌱 I’m currently pursuing to learning **Rust, MongoDB and Node.**
+- 🌱 I’m currently learning **Java and Springboot.**
 - 💻 My latest project [GrooveGrid](https://groovegrid.me/)
 
 <h3 align="left">Languages and Tools:</h3>
