@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">I'm a backend developer, passionate about new challenges</h3>
 
-- 🔭 I’m currently working to **enhance my coding skills in Ruby on Rails!**
+- 🔭 I’m currently working to **enhance my coding skills in Java!**
 - 🌱 I’m currently learning **Java and Springboot.**
 - 💻 My latest project [GrooveGrid](https://groovegrid.me/)
 
