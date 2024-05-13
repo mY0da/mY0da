@@ -15,19 +15,15 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-o
 
 <h3 align="left">More about me:</h3>
 
-```ruby
-class Profile
-
-  def Information
-
-    @availableForHire = true
-    @education = "Le Wagon Lisbon - Advanced coding bootcamp"
-    @areasOfInterest = ["Python", "Java", "Ruby", "JavaScript", "SQL"]
-    @technologies: ["Ruby on Rails", "Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"]
-
-  end
-
-end
+```java
+public class ProfileInformation {
+    public static void main(String[] args) {
+        boolean openToWork = true
+        String education = "Le Wagon Lisbon - Advanced coding bootcamp"
+        String[] areasOfInterest = {"Python", "Java", "Ruby", "JavaScript", "SQL"};
+        String[] technologies = {"Ruby on Rails", "IntelliJ IDEA", "Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"};
+    }
+}
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
