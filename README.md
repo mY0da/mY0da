@@ -21,7 +21,13 @@ public class ProfileInformation {
         boolean openToWork = true
         String education = "Le Wagon Lisbon - Advanced coding bootcamp"
         String[] areasOfInterest = {"Python", "Java", "Ruby", "JavaScript", "SQL"};
-        String[] technologies = {"Ruby on Rails", "IntelliJ IDEA", "Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku"};
+        String[] technologies = {"Ruby on Rails",
+                                "IntelliJ IDEA",
+                                "Visual Studio Code",
+                                "Bootstrap",
+                                "Figma",
+                                "GitHub",
+                                "Heroku"};
     }
 }
 ```
