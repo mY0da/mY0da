@@ -19,7 +19,7 @@ public class ProfileInformation {
     public static void main(String[] args) {
         boolean openToWork = true
         String education = "Le Wagon Lisbon - Advanced coding bootcamp"
-        String[] areasOfInterest = {"Python", "Java", "Ruby", "JavaScript", "SQL"};
+        String[] areasOfInterest = {"Python", "Java", "C#", "Ruby", "JavaScript", "SQL"};
         String[] technologies = {"Ruby on Rails",
                                 "IntelliJ IDEA",
                                 "Visual Studio Code",
